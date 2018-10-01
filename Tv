@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="TNT.es" tvg-name="|ES  | TNT" tvg-logo="http://one-iptv.com/logoX/espanacinema/tnt.png" group-title="ESPANA",|ES  | TNT
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/31474.ts
+#EXTINF:-1, tvg-id="TNT.es" tvg-name="|ES  | TNT_FullHD" tvg-logo="http://one-iptv.com/logoX/espanacinema/tnt.png" group-title="ESPANA",|ES  | TNT_FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/31543.ts
+#EXTINF:-1, tvg-id="TNT.es" tvg-name="|ES  | TNT_HD" tvg-logo="http://one-iptv.com/logoX/espanacinema/tnt.png" group-title="ESPANA",|ES  | TNT_HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/31544.ts
+#EXTINF:-1, tvg-id="Antena3.es" tvg-name="|ES*| Antena 3" tvg-logo="http://one-iptv.com/logoX/m+movistar/antena3.png" group-title="",|ES*| Antena 3
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30658.ts
+#EXTINF:-1, tvg-id="Antena3.es" tvg-name="|ES*| Antena 3 FullHD" tvg-logo="http://one-iptv.com/logoX/m+movistar/antena3.png" group-title="",|ES*| Antena 3 FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30657.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-gh7zLufbJIENxf9Dmvn7fdCYHT3PDCXZ09k5WLsYqmoeTqpWmCIpjE" group-title="",|ES*| AXN HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30616.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| AXN White FullHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-gh7zLufbJIENxf9Dmvn7fdCYHT3PDCXZ09k5WLsYqmoeTqpWmCIpjE" group-title="",|ES*| AXN White FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30613.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| AXN White HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIU4UBn7uBSbNT4218d_Gzpl5qjs770eDr3yPsHpzhdUHrd476Jaj_pyt" group-title="",|ES*| AXN White HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30614.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| FOX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxb8KRk9nuqbDo0QanfGs7nnMxJD5IrTwRT2viCtXCQLWRzpQPQiCUcjvwaA" group-title="",|ES*| FOX HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30634.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| FOX LIFE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gjR8-PREmCZW9AEwj6ipDkpDpAc0ZoOt8Ge869JVVCeuNRhdMMtjzks" group-title="",|ES*| FOX LIFE HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30633.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| NatGeo Wild FullHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY3iUh7vw3Up6mUjf-x1cNhvPIN_0Yiy3bE2GguHNjOJxH3Oz7-uXmbE" group-title="",|ES*| NatGeo Wild FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30617.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| NatGeo Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY3iUh7vw3Up6mUjf-x1cNhvPIN_0Yiy3bE2GguHNjOJxH3Oz7-uXmbE" group-title="",|ES*| NatGeo Wild HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30618.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| National Geographic FullHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0i-ffH7-qQW0Pz8V7_ELZx6vWo7PYTRS5CBruyC4BVQOjKJRp1WqrFls6" group-title="",|ES*| National Geographic FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30619.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| National Geographic HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqCMGsu4pW9PpwWs1G7JcNYhTBS2Os4a00pzPnrxQ24jLWiu2u4WrgrD_b" group-title="",|ES*| National Geographic HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30620.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| NEOX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4_BOb-7VYrID0mkIV7fyvRyyivDWeoJup_3eiZ_C8SSuRqvS3urBcP0" group-title="",|ES*| NEOX HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30604.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| Paramount Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPWFdzM6M9Xh_dwhzDVNvd-lF0F9xFRJBwTa9fuMmwvdctfzVTpHu0w" group-title="",|ES*| Paramount Channel
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30603.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| Real Madrid HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3F1qengObYJ127rP5O6hIseGwWPRTu0B7ji0HECMy8_SLuPehKw4bCyk" group-title="",|ES*| Real Madrid HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30609.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| Syfy FullHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS014-y3_HaFLrfaw0e-RVg3Q37xxdhT5CTdlhJbD9D2oIMkHVbOIzjSgk" group-title="",|ES*| Syfy FullHD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30624.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| Syfy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ3VeQVyAG6q_FMlszrE0EIccchT3O5P8VXKXkCM_4Te-qTANyIVz5vDc" group-title="",|ES*| Syfy HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/30625.ts
+#EXTINF:-1, tvg-id="" tvg-name="|ES*| TCM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUPEvoCrTqq_sudDR-lu2cgBXi0Kk3iC8A881UJKO86JlrNwBjRT23DyB" group-title="",|ES*| TCM HD
+
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| CDF Premuim" tvg-logo="" group-title="LATINO",|LATINO| CDF Premuim
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39053.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Cinecanal" tvg-logo="" group-title="LATINO",|LATINO| Cinecanal
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39155.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Cinecanal HD" tvg-logo="" group-title="LATINO",|LATINO| Cinecanal HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39147.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| CINELATINO" tvg-logo="" group-title="LATINO",|LATINO| CINELATINO
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39118.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| CINEMAX" tvg-logo="" group-title="LATINO",|LATINO| CINEMAX
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39079.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Claro Sports" tvg-logo="" group-title="LATINO",|LATINO| Claro Sports
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39117.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| CNN en Espagnol" tvg-logo="" group-title="LATINO",|LATINO| CNN en Espagnol
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39056.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Comedy Central HD" tvg-logo="" group-title="LATINO",|LATINO| Comedy Central HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39146.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| De Pelicula HD" tvg-logo="" group-title="LATINO",|LATINO| De Pelicula HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39145.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| DISCOVERY  HOME & HEALTH" tvg-logo="" group-title="LATINO",|LATINO| DISCOVERY  HOME & HEALTH
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39078.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Discovery Channel" tvg-logo="" group-title="LATINO",|LATINO| Discovery Channel
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39156.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Discovery Civilization" tvg-logo="" group-title="LATINO",|LATINO| Discovery Civilization
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39157.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| E!" tvg-logo="" group-title="LATINO",|LATINO| E!
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39114.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| EL GOURMET" tvg-logo="" group-title="LATINO",|LATINO| EL GOURMET
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39113.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Glitz" tvg-logo="" group-title="LATINO",|LATINO| Glitz
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39143.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Golden Edge" tvg-logo="" group-title="LATINO",|LATINO| Golden Edge
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39142.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Golden HD" tvg-logo="" group-title="LATINO",|LATINO| Golden HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39141.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Gourmet" tvg-logo="" group-title="LATINO",|LATINO| Gourmet
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39140.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| H2" tvg-logo="" group-title="LATINO",|LATINO| H2
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39107.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| HBO" tvg-logo="" group-title="LATINO",|LATINO| HBO
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39106.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| HBO 2" tvg-logo="" group-title="LATINO",|LATINO| HBO 2
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39105.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| HBO Signature" tvg-logo="" group-title="LATINO",|LATINO| HBO Signature
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39104.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| History HD" tvg-logo="" group-title="LATINO",|LATINO| History HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39139.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| PX" tvg-logo="" group-title="LATINO",|LATINO| PX
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39068.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| SONY" tvg-logo="" group-title="LATINO",|LATINO| SONY
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39067.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| Space HD" tvg-logo="" group-title="LATINO",|LATINO| Space HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39137.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| STUDIO UNIVERSAL" tvg-logo="" group-title="LATINO",|LATINO| STUDIO UNIVERSAL
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39066.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| SYFY" tvg-logo="" group-title="LATINO",|LATINO| SYFY
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39065.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| TBS VERYFUNNY" tvg-logo="" group-title="LATINO",|LATINO| TBS VERYFUNNY
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39064.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| TCM" tvg-logo="" group-title="LATINO",|LATINO| TCM
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39063.ts
+#EXTINF:-1, tvg-id="" tvg-name="|LATINO| TDN HD" tvg-logo="" group-title="LATINO",|LATINO| TDN HD
+http://bestvip.webvps.de:25443/live/hZDnEn8RWE/YO0VB3lFng/39054.ts
